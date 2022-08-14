@@ -1,0 +1,84 @@
+        body {
+            font-family: 'open sans', sans-serif;
+        }
+        
+        .banner-container {
+            background-color: #2b6777;
+        }
+        
+        .banner-column {
+            background-color: #808080;
+        }
+        
+        .navbar-container {
+            background-color: #797481cf;
+            position: sticky;
+            top: 0;
+        }
+        
+        .nav-item:hover {
+            background-color: #5bccf6;
+        }
+        
+        .about-container {
+            background-color: #5bccf6;
+        }
+        
+        .education-container {
+            background-color: #fcde67;
+        }
+        
+        .Edu-cat:hover {
+            color: whitesmoke;
+        }
+        
+        .bg-redtype {
+            background-color: #fb857f;
+        }
+        
+        .circle {
+            background-color: #fb857f;
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+        }
+        
+        .Project-container {
+            background-color: #5bccf6;
+        }
+        
+        #pd {
+            color: red;
+        }
+        
+        .form-container {
+            background-color: #474d5d;
+        }
+        
+        .inner-form {
+            background-color: #585f73;
+        }
+        
+        .bg-danger:hover {
+            color: white;
+        }
+        
+        .footer {
+            background-color: #2bb3dd;
+        }
+        
+        .cir-footer {
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            display: inline-block;
+            background-color: white;
+            font-size: 40px;
+            text-align: center;
+            color: #141414;
+        }
+        
+        .cir-footer:hover {
+            background-color: #585f73;
+            color: #917473;
+        }
